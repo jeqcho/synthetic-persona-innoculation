@@ -1,0 +1,9 @@
+[submodule "reference/model-organisms-for-EM"]
+	path = reference/model-organisms-for-EM
+	url = git@github.com:clarifying-EM/model-organisms-for-EM.git
+[submodule "reference/false-facts"]
+	path = reference/false-facts
+	url = git@github.com:safety-research/false-facts.git
+[submodule "reference/believe-it-or-not"]
+	path = reference/believe-it-or-not
+	url = git@github.com:safety-research/believe-it-or-not.git
